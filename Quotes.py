@@ -9,8 +9,8 @@ app = FastAPI()
 # Sample quotes
 quotes = [
     "Be yourself; everyone else is already taken. - Oscar Wilde",
-    "In the middle of every difficulty lies opportunity. - Albert Einstein",
-    "Life is what happens when you're busy making other plans. - John Lennon"
+    # "In the middle of every difficulty lies opportunity. - Albert Einstein",
+    # "Life is what happens when you're busy making other plans. - John Lennon"
 ]
 
 # GET: Fetch a random quote
